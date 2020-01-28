@@ -1,0 +1,52 @@
+body{
+	
+}
+.container-fluid{
+	font-family: 'Karla', sans-serif;
+	padding: 3% 7%;
+}
+.section-heading{
+	color: #fff;
+	font-size: 1.8rem;
+	font-weight: 700;
+	padding-bottom: 2%;
+}
+/*Introduction Section*/
+.intro .section-heading{
+	color: cyan;
+}
+.sub-heading{
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: hsl(71, 73%, 54%);
+}
+.intro p{
+	color: hsl(218, 22%, 67%);
+}
+/*Subscripton Section*/
+.subscription{
+	background-color: hsl(204, 70%, 50%);
+	color: hsl(204, 43%, 93%);
+	
+}
+.price-monthly{
+	color: hsl(218, 22%, 67%);
+
+}
+.price {
+	font-size: 3rem;
+	font-weight: 700;
+	color: #fff;
+}
+.sign-up{
+	border: none;
+	background-color: hsl(71, 73%, 54%);
+}
+/*Company Description Section*/
+.description{
+	background-color: hsl(179, 62%, 43%);
+	color: hsl(204, 43%, 93%);
+}
+/*Footer*/
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); 
